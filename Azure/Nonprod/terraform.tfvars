@@ -1,0 +1,7 @@
+location       = "eastus"
+clientsecret   = ""
+subscriptionid = ""
+tenantid       = ""
+clientid       = ""
+parentgroup    = "/providers/Microsoft.Management/managementGroups/scopehub"
+role           = "Management Group Contributor"
